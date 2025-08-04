@@ -17,6 +17,7 @@ DevOps & Tools:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
+📫 Как связаться: Telegram [@Vladislav_5367](https://t.me/Vladislav_5367)
 <!--
 **VladislavGnom/VladislavGnom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
