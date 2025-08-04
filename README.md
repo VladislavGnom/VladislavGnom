@@ -5,13 +5,12 @@
 Backend:  
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-66ed8a?logo=celery&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?logo=django&logoColor=white)
 
 Databases:  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 DevOps & Tools:  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
